@@ -1,6 +1,5 @@
 const allowedOrigins = [
-    'https://homework-management-application.onrender.com/'
-    // 'http://localhost:3000'
+    'https://homework-management-application.onrender.com'
 ]
 
 module.exports = allowedOrigins
